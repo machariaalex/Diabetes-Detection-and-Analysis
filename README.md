@@ -1,1 +1,2 @@
 # Diabetes-Detection-and-Analysis
+Diabetes is a clinical condition that causes a high amount of glucose in the blood with a simultaneous lack of insulin or insulin resistance. Insulin is a hormone produced in the pancreas, which regulates the amount of blood glucose produced by the carbohydrates in the food we intake. This condition, also known as hyperglycemia, can damage the heart, blood vessels, eyes, kidney and nerves
